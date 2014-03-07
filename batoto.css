@@ -1,5 +1,5 @@
 @-moz-document url("http://www.batoto.net/") {
-    
+                    /*Won't work on anything other than main page*/
     .input_text { 
         padding-left: 0 !important; 
         position: relative;
