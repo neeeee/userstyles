@@ -1,0 +1,18 @@
+@-moz-document url("http://www.batoto.net/") {
+    
+    .input_text { 
+        padding-left: 0 !important; 
+        position: relative;
+         left: -825px; 
+         top: -40px; 
+        
+    }
+    
+    .input_submit { 
+        position: relative; 
+        left: -820px; 
+        top: -40px;
+        
+    }
+
+}
